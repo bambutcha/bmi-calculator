@@ -27,7 +27,7 @@ bmi-calculator/
 
 ## 🛠 Технологии
 
-- Go 1.22
+- Go 1.24
 - Telegram Bot API v5
 - godotenv для конфигурации
 
